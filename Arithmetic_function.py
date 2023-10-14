@@ -20,9 +20,7 @@ print("6 * 2 =", result_multiply)
 result_divide = 8 / 4
 print("8 / 4 =", result_divide)
 
-# Exponentiation
-result_exponent = 2 ** 3
-print("2 ** 3 =", result_exponent)
+
 
 
 # In[ ]:
